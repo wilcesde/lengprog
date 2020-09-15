@@ -1,0 +1,13 @@
+C:\Users\Sena\Desktop\examplesOOP\oneIntro\bin\Debug\netcoreapp3.1\oneIntro.exe
+C:\Users\Sena\Desktop\examplesOOP\oneIntro\bin\Debug\netcoreapp3.1\oneIntro.deps.json
+C:\Users\Sena\Desktop\examplesOOP\oneIntro\bin\Debug\netcoreapp3.1\oneIntro.runtimeconfig.json
+C:\Users\Sena\Desktop\examplesOOP\oneIntro\bin\Debug\netcoreapp3.1\oneIntro.runtimeconfig.dev.json
+C:\Users\Sena\Desktop\examplesOOP\oneIntro\bin\Debug\netcoreapp3.1\oneIntro.dll
+C:\Users\Sena\Desktop\examplesOOP\oneIntro\bin\Debug\netcoreapp3.1\oneIntro.pdb
+C:\Users\Sena\Desktop\examplesOOP\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.csprojAssemblyReference.cache
+C:\Users\Sena\Desktop\examplesOOP\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.AssemblyInfoInputs.cache
+C:\Users\Sena\Desktop\examplesOOP\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.AssemblyInfo.cs
+C:\Users\Sena\Desktop\examplesOOP\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Desktop\examplesOOP\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.dll
+C:\Users\Sena\Desktop\examplesOOP\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.pdb
+C:\Users\Sena\Desktop\examplesOOP\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.genruntimeconfig.cache

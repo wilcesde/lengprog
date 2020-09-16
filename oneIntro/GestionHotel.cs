@@ -7,8 +7,25 @@ namespace oneIntro
         //propiedades
         public string habitacion { get; set; }
         public int huesped { get; set; }
-        public int dias { get; set; }
 
+        int Dias;
+        //public int dias { get; set; }
+        public int dias { 
+            get { return Dias; }
+            set
+            {
+                if (value >= 1)
+                {
+                    Dias = value;
+                } else
+                {
+                    Console.WriteLine("Cantidad dias deber ser minimo 1");
+                }
+            }
+        }
+
+        
+        
         //Metodos
         public int valorEstadia(int huesp, int cantd){
             int TINDIVIDUAL = 2500;

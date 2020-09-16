@@ -60,12 +60,12 @@ namespace oneIntro   //espacio de nombre (carpeta del proyecto)
             Console.WriteLine("Cantida Huespedes");
             int huespedes = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Días de estadia");
-            int cant_dias = int.Parse(Console.ReadLine());
-
             Console.WriteLine("Nombre Habitación");
             string nom_hab = Console.ReadLine();
 
+            Console.WriteLine("Días de estadia");
+            int cant_dias = int.Parse(Console.ReadLine());
+            
             //Instancia
 
             var hotelUno = new GestionHotel(){

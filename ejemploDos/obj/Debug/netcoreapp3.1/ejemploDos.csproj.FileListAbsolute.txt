@@ -11,3 +11,16 @@ C:\Users\Sena\Desktop\examplesOOP\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.
 C:\Users\Sena\Desktop\examplesOOP\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.dll
 C:\Users\Sena\Desktop\examplesOOP\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.pdb
 C:\Users\Sena\Desktop\examplesOOP\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.genruntimeconfig.cache
+C:\Users\wil\Desktop\examplesOOP\ejemploDos\bin\Debug\netcoreapp3.1\ejemploDos.exe
+C:\Users\wil\Desktop\examplesOOP\ejemploDos\bin\Debug\netcoreapp3.1\ejemploDos.deps.json
+C:\Users\wil\Desktop\examplesOOP\ejemploDos\bin\Debug\netcoreapp3.1\ejemploDos.runtimeconfig.json
+C:\Users\wil\Desktop\examplesOOP\ejemploDos\bin\Debug\netcoreapp3.1\ejemploDos.runtimeconfig.dev.json
+C:\Users\wil\Desktop\examplesOOP\ejemploDos\bin\Debug\netcoreapp3.1\ejemploDos.dll
+C:\Users\wil\Desktop\examplesOOP\ejemploDos\bin\Debug\netcoreapp3.1\ejemploDos.pdb
+C:\Users\wil\Desktop\examplesOOP\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.csprojAssemblyReference.cache
+C:\Users\wil\Desktop\examplesOOP\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.AssemblyInfoInputs.cache
+C:\Users\wil\Desktop\examplesOOP\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.AssemblyInfo.cs
+C:\Users\wil\Desktop\examplesOOP\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.csproj.CoreCompileInputs.cache
+C:\Users\wil\Desktop\examplesOOP\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.dll
+C:\Users\wil\Desktop\examplesOOP\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.pdb
+C:\Users\wil\Desktop\examplesOOP\ejemploDos\obj\Debug\netcoreapp3.1\ejemploDos.genruntimeconfig.cache

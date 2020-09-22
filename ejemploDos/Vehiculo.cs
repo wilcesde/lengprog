@@ -8,6 +8,8 @@ namespace ejemploDos
         public string Marca { get; set; }
         public string Serie { get; set; }
 
+        //Ej concatenar propiedades (Marca y Serie)
+
         short modelo;
         public short Modelo { 
             get

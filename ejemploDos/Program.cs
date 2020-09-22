@@ -27,6 +27,9 @@ namespace ejemploDos
             };
 
             Console.WriteLine(vehiculoUno.Placa);
+
+            vehiculoUno.prender();
+
         }
     }
 }

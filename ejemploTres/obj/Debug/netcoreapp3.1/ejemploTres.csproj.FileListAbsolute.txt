@@ -1,0 +1,13 @@
+C:\Users\Sena\Desktop\examplesOOP\ejemploTres\obj\Debug\netcoreapp3.1\ejemploTres.csprojAssemblyReference.cache
+C:\Users\Sena\Desktop\examplesOOP\ejemploTres\obj\Debug\netcoreapp3.1\ejemploTres.AssemblyInfoInputs.cache
+C:\Users\Sena\Desktop\examplesOOP\ejemploTres\obj\Debug\netcoreapp3.1\ejemploTres.AssemblyInfo.cs
+C:\Users\Sena\Desktop\examplesOOP\ejemploTres\obj\Debug\netcoreapp3.1\ejemploTres.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Desktop\examplesOOP\ejemploTres\bin\Debug\netcoreapp3.1\ejemploTres.exe
+C:\Users\Sena\Desktop\examplesOOP\ejemploTres\bin\Debug\netcoreapp3.1\ejemploTres.deps.json
+C:\Users\Sena\Desktop\examplesOOP\ejemploTres\bin\Debug\netcoreapp3.1\ejemploTres.runtimeconfig.json
+C:\Users\Sena\Desktop\examplesOOP\ejemploTres\bin\Debug\netcoreapp3.1\ejemploTres.runtimeconfig.dev.json
+C:\Users\Sena\Desktop\examplesOOP\ejemploTres\bin\Debug\netcoreapp3.1\ejemploTres.dll
+C:\Users\Sena\Desktop\examplesOOP\ejemploTres\bin\Debug\netcoreapp3.1\ejemploTres.pdb
+C:\Users\Sena\Desktop\examplesOOP\ejemploTres\obj\Debug\netcoreapp3.1\ejemploTres.dll
+C:\Users\Sena\Desktop\examplesOOP\ejemploTres\obj\Debug\netcoreapp3.1\ejemploTres.pdb
+C:\Users\Sena\Desktop\examplesOOP\ejemploTres\obj\Debug\netcoreapp3.1\ejemploTres.genruntimeconfig.cache
